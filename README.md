@@ -16,4 +16,4 @@ My Blog is on Heroku:
 https://my-awesome-app-blog.herokuapp.com/
 
 
-There is some errors because I encrypted the SECRET_KEY, Database URI, Email_User and Email_Pass into os.environ.get(). 
+There is some errors because I encrypted the SECRET_KEY, Database URI, Email_User and Email_Pass with os.environ.get(). 
